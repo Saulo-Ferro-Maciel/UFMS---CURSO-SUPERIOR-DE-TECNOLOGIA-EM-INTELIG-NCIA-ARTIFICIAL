@@ -1,0 +1,112 @@
+================================================================
+REGRAS DE ORGANIZACAO - Resumos para Provas Videomonitoradas
+Local: /home/saulo/Documentos/UFMS Digital/Primeiro Periodo/
+       Resumos para Provas Videomonitoradas/
+================================================================
+
+Esta subpasta guarda os resumos usados como material de
+consulta durante as PROVAS VIDEOMONITORADAS das disciplinas
+do PRIMEIRO PERIODO. O objetivo e permitir leitura rapida
+(skimmy) e escaneamento humano durante a prova, entao os
+arquivos aqui seguem regras RIGIDAS de formato e nome.
+
+----------------------------------------------------------------
+1. PROPOSITO
+----------------------------------------------------------------
+- Ter um resumo curto por disciplina, pronto para consulta
+  rapida durante a prova videomonitorada.
+- NAO substitui o estudo: e material de REVISAO.
+- Nao colocar aqui prova, atividade avaliativa, videoaula
+  ou PDF do AVA. Isso continua na pasta da disciplina.
+
+----------------------------------------------------------------
+2. ESTRUTURA
+----------------------------------------------------------------
+A pasta e CHATA e FLAT: apenas arquivos .txt soltos, um
+por disciplina. NAO criar subpastas dentro dela.
+
+    Resumos para Provas Videomonitoradas/
+        REGRAS                       -> este arquivo
+        RESUMO_<nome da materia>.txt -> um por disciplina
+
+Exemplos validos:
+    RESUMO_Algoritmos_e_Programacao_I.txt
+    RESUMO_Pensamento_Computacional.txt
+    RESUMO_Etica_Cidadania_e_Sociedade.txt
+
+----------------------------------------------------------------
+3. NOMENCLATURA (OBRIGATORIA)
+----------------------------------------------------------------
+Todo arquivo de resumo deve seguir EXATAMENTE este formato:
+
+    RESUMO_<nome da materia>.txt
+
+Regras:
+- Prefixo fixo: "RESUMO_"
+- Nome da materia: em CAIXA ALTA, palavras separadas por
+  underline (_), sem acentos, sem cedilha.
+- Extensao: sempre .txt (UTF-8, sem BOM)
+- Nao usar espacos, hifens ou caracteres especiais no nome.
+- Nao colocar data, modulo nem numero no nome. Um arquivo
+  por materia e suficiente.
+
+Incorreto -> Correto
+---------------------------------
+resumo algoritmos.txt        -> RESUMO_Algoritmos_e_Programacao_I.txt
+RESUMO-Algoritmos I          -> RESUMO_Algoritmos_e_Programacao_I.txt
+RESUMO_pensamento.txt        -> RESUMO_Pensamento_Computacional.txt
+
+----------------------------------------------------------------
+4. REGRAS DE CONTEUDO (LEITURA SKIMMY / SCANNER HUMANO)
+----------------------------------------------------------------
+Formato interno obrigatorio:
+
+- Cada topico = um PARAGRAFO de NO MAXIMO 10 LINHAS curtas.
+- Linha ideal: ate ~80 caracteres (cabe no terminal/notepad).
+- Separar paragrafos com UMA linha em branco.
+- Nao usar tabelas, imagens, markdown pesado, emojis ou
+  cores. Texto puro, legivel em qualquer editor.
+- Primeira linha do arquivo = nome da materia.
+- Ordem dos paragrafos: do mais cobrado para o menos
+  cobrado na prova.
+
+Cabecalhos opcionais dentro do paragrafo (uma linha so):
+
+    [TITULO] ...texto...
+
+Exemplo de paragrafo valido (8 linhas, dentro do limite):
+
+    [TITULO] Variaveis e tipos
+    Variavel = nome que guarda um valor na memoria. Tipos
+    basicos em C: int, float, double, char. Em Python o
+    tipo e dinamico. Declaracao: int x = 10; ou x = 10.
+    Atribuicao usa =, comparacao usa ==. Constantes em C
+    sao feitas com #define ou const.
+
+Nenhum paragrafo pode passar de 10 linhas. Se passar,
+quebrar em dois paragrafos com titulos diferentes.
+
+----------------------------------------------------------------
+5. O QUE NAO COLOCAR AQUI
+----------------------------------------------------------------
+- Provas, quizzes ou atividades (vao em Disciplina/PROVAS/)
+- Videoaulas ou PDFs do AVA (vao na pasta da Disciplina)
+- Codigo fonte completo (colar so trechos curtos e
+  comentados dentro do resumo)
+- Trabalho em grupo, listas de exercicios
+
+----------------------------------------------------------------
+6. CHECKLIST ANTES DE SALVAR RESUMO NOVO
+----------------------------------------------------------------
+- E de materia do PRIMEIRO periodo?               ( ) sim
+- Nome do arquivo = RESUMO_<materia>.txt?         ( ) sim
+- Esta em CAIXA ALTA e com underline?             ( ) sim
+- Sem acento, sem espaco, sem hifen no nome?       ( ) sim
+- Nenhum paragrafo passa de 10 linhas?            ( ) sim
+- Linhas curtas (ate ~80 caracteres)?              ( ) sim
+- Sem tabela, imagem, emoji ou markdown pesado?    ( ) sim
+- Conteudo cabe em consulta rapida na prova?       ( ) sim
+
+================================================================
+FIM DAS REGRAS - Resumos para Provas Videomonitoradas
+================================================================
