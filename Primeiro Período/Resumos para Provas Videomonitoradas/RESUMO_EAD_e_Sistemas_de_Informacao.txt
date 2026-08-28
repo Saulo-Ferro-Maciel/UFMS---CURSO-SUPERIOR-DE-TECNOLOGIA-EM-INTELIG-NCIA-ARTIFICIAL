@@ -1,0 +1,51 @@
+EAD E SISTEMAS DE INFORMACAO
+
+[TITULO] Ambientes Virtuais de Aprendizagem (AVA / LMS / VLE)
+AVA (Learning Management System / Virtual Learning Environment):
+plataformas dinamicas que agrupam ferramentas para interacao, conteudos
+multimidia, proposicao de atividades e acompanhamento pedagógico.
+Autores de referencia: Weller (2023), Brotherhood (2025) e Gualberto (2025).
+Permite a educacao alem das barreiras fisicas da sala de aula tradicional,
+oferecendo flexibilidade, acessibilidade, engajamento e dados confiaveis.
+Plataforma oficial da universidade: AVA UFMS (ava.ufms.br).
+
+[TITULO] Tecnologias Digitais (TDs) na Educacao
+Tecnologias Digitais (TDs) sao ferramentas que auxiliam e facilitam
+praticas pedagogicas interdisciplinares e dinamicas (Cerigatto, 2018).
+O uso de ferramentas digitais desenvolve fluencia digital em professores
+e estudantes, promovendo aprendizagem autonoma (Rocha et al., 2021).
+Possibilitam a personalizacao da aprendizagem, agilidade e comunicacao
+rapida entre pessoas separadas no tempo e no espaco (Filatro, 2023).
+
+[TITULO] Sistema de Controle Academico (SISCAD UFMS)
+SISCAD (siscad.ufms.br): portal oficial do estudante para a gestao
+e controle de sua vida academica na UFMS.
+Funcionalidades principais:
+- Consulta de disciplinas matriculadas e matriz curricular.
+- Acompanhamento de notas parciais, finais e frequencias.
+- Emissao de historico escolar, atestados e documentos oficiais.
+- Realizacao de matricula e rematricula em periodos letivos.
+
+[TITULO] Biblioteca Online e Sistema Pergamum
+Pergamum (pergamum.ufms.br): sistema de acervo digital da biblioteca UFMS.
+Recursos e conteudos acessiveis:
+- Milhares de livros digitais (e-books) das principais editoras.
+- Periodicos cientificos e artigos academicos para pesquisa.
+- Normas tecnicas oficiais da ABNT para formatacao de trabalhos.
+Acesso remoto autenticado garantido a todos os alunos e servidores.
+
+[TITULO] Google Workspace for Education na EaD
+Conjunto de ferramentas em nuvem da Google voltadas para a educacao.
+Relação e articulacao com o AVA Moodle:
+- Integradas: incorporadas diretamente no fluxo do AVA.
+- Independentes: utilizadas de forma autonoma fora da plataforma.
+- Linkadas: conectadas atraves de hiperlinks no ambiente virtual.
+Utilizadas para producao de materiais, organizacao e colaboracao.
+
+[TITULO] Principais Aplicacoes Google Apps e IA Generativa
+Comunicacao e Arquivos: Gmail (e-mail institucional), Drive (nuvem),
+Docs (documentos), Sheets (planilhas), Presentation (slides).
+Organizacao e Reunioes: Calendar (agenda), Keep (anotacoes),
+Meet (videoconferencia), Chat (mensagens) e YouTube (videoaulas).
+Producao de Video e IA: Google Vids (criacao de vídeos) e
+Google Gemini (IA generativa para pesquisa e apoio ao estudo).

@@ -1,0 +1,201 @@
+ALGORITMOS E PROGRAMACAO I
+
+[TITULO] Logica de Programacao e Algoritmos
+Algoritmo = sequencia finita, ordenada e nao ambigua de passos para
+resolver um problema. Fases de processamento: Entrada (dados fornecidos),
+Processamento (transformacao/calculo) e Saida (resultado exibido).
+Sintaxe = regras gramaticais da linguagem. Semantica = significado e
+logica da instrucao. Algoritmos podem ser expressos em linguagem natural,
+pseudocodigo (portugol), fluxogramas ou linguagens de programacao.
+
+[TITULO] Tipos Primitivos de Dados em Python
+int: numeros inteiros positivos ou negativos sem casa decimal (ex: 10, -5).
+float: numeros reais de ponto flutuante com casa decimal (ex: 3.14, -0.5).
+str: cadeia de caracteres / texto delimitada por aspas (ex: "Python").
+bool: valores logicos representando verdade ou falsidade (True ou False).
+Conversao de tipos (casting): int("10"), float("3.5"), str(100), bool(1).
+
+[TITULO] Variaveis, Atribuicao e Constantes
+Variavel = posicao nomeada de memoria que armazena um valor alteravel.
+Nomes de variaveis: devem comecar com letra ou underline (_), sensiveis a
+caixa (case-sensitive), sem espacos ou caracteres especiais/acentos.
+Atribuicao simples: x = 10. Atribuicao multipla: a, b = 1, 2.
+Troca de valores em Python: a, b = b, a.
+Constantes: convencionadas em CAIXA ALTA (ex: PI = 3.14159).
+
+[TITULO] Entrada e Saida de Dados (input e print)
+Entrada: comando input("mensagem") sempre retorna uma string (str).
+Para receber numeros, deve-se aplicar casting: n = int(input()).
+Saida: comando print(valor1, valor2). Parametros uteis: sep=" " (separador)
+e end="\n" (caractere final).
+Formatacao com f-strings: f"O valor de {nome} e {valor:.2f}" (2 casas).
+
+[TITULO] Operadores Aritmeticos e Precedencia
+Adicao (+), Subtracao (-), Multiplicacao (*), Divisao real (/).
+Divisao inteira (//): quociente inteiro sem casas decimais (ex: 7 // 2 = 3).
+Resto da divisao / Modulo (%): resto inteiro (ex: 7 % 2 = 1).
+Potenciacao (**): eleva a base ao expoente (ex: 2 ** 3 = 8).
+Precedencia: 1. Parenteses (); 2. Potencia (**); 3. *, /, //, %; 4. +, -.
+
+[TITULO] Operadores Relacionais e Logicos
+Operadores relacionais (retornam bool): == (igual), != (diferente),
+> (maior), < (menor), >= (maior ou igual), <= (menor ou igual).
+Operadores logicos:
+- and: True apenas se AMBAS as condicoes forem True.
+- or: True se PELO MENOS UMA condicao for True.
+- not: inverte o valor logico (not True = False).
+Avaliacao de curto-circuito: and para no primeiro False; or no primeiro True.
+
+[TITULO] Estruturas Condicionais (if, elif, else)
+Condicional simples: executa bloco recuado apenas se condicao for True.
+Condicional composta: if condicao: ... else: ... (caminho alternativo).
+Condicional encadeada: if ... elif ... elif ... else: (varias opcoes).
+Recuo (indentacao): em Python, a indentacao obrigatoria de 4 espacos
+define a hierarquia dos blocos de codigo.
+Operador ternario: resultado = valor1 if condicao else valor2.
+
+[TITULO] Estrutura de Repeticao while
+Laço condicional: executa um bloco enquanto a condicao for verdadeira.
+Sintaxe: while condicao: ...
+Exige inicializacao da variavel de controle ANTES do laço e atualizacao
+DENTRO do laço, evitando laço infinito (loop infinito).
+Util para repeticoes onde nao se sabe previamente quantas vezes rodara
+(ex: leitura de dados ate digitar um valor de parada/sentinela).
+
+[TITULO] Estrutura de Repeticao for e funcao range
+Laço contado: itera sobre os elementos de uma sequencia (lista, string, range).
+Funcao range(inicio, fim, passo): gera sequencia numerica no intervalo
+semiaberto [inicio, fim), excluindo o valor final.
+Exemplos de range:
+- range(5): gera 0, 1, 2, 3, 4.
+- range(1, 10, 2): gera 1, 3, 5, 7, 9.
+- range(10, 0, -1): contagem regressiva 10 ate 1.
+
+[TITULO] Comandos de Controle de Laço (break e continue)
+break: interrompe e encerra imediatamente a execucao do laço atual,
+desviando a execucao para a primeira instrucao apos o laço.
+continue: ignora o restante das instrucoes da itercao atual e salta
+diretamente para a proxima iteracao do laço.
+Clausula else no laço: bloco executado quando o laço termina normalmente
+sem ter encontrado uma instrucao break.
+
+[TITULO] Strings: Imutabilidade, Indexacao e Fatiamento
+String = sequencia imutavel de caracteres (nao pode alterar caractere direto).
+Indexacao: primeiro caractere em [0], ultimo em [-1] ou [len(s)-1].
+Fatiamento (slicing): string[inicio:fim:passo]. Extrai subcadeia de inicio
+ate fim-1. Exemplo: s[0:5] pega os primeiros 5 caracteres; s[::-1] inverte.
+Funcao len(s): retorna o numero total de caracteres da string s.
+
+[TITULO] Metodos Comuns de Strings
+s.lower(): converte todos os caracteres para minusculo.
+s.upper(): converte todos os caracteres para maiusculo.
+s.strip(): remove espacos em branco no inicio e no fim.
+s.split(delim): divide a string em uma lista de substrings por delimitador.
+s.join(lista): junta elementos de uma lista de strings em uma unica string.
+s.replace(antigo, novo): substitui ocorrencias de substring.
+s.find(sub): retorna o indice da primeira ocorrencia ou -1 se nao achar.
+
+[TITULO] Listas (Vetores Unidimensionais)
+Lista = colecao ordenada, indexada e mutavel de elementos entre colchetes [].
+Podem conter elementos de diferentes tipos: lst = [10, "texto", 3.14, True].
+Indexacao e fatiamento funcionam como em strings: lst[0], lst[-1], lst[1:4].
+Mutabilidade: permite alterar elementos diretamente (ex: lst[0] = 99).
+Criacao de lista vazia: lst = [] ou lst = list().
+
+[TITULO] Operacoes e Metodos Principais de Listas
+lst.append(elem): adiciona elem ao final da lista.
+lst.insert(idx, elem): insere elem na posicao idx.
+lst.pop(idx): remove e retorna o elemento no indice idx (padrao: ultimo).
+lst.remove(elem): remove a primeira ocorrencia de elem na lista.
+lst.sort(): ordena a lista em ordem crescente em-local.
+lst.reverse(): inverte a ordem dos elementos da lista.
+Operador in: verifica se um elemento pertence a lista (ex: x in lst).
+
+[TITULO] Percorrendo e Processando Listas
+Iteracao direta por elemento: for item in lista: ...
+Iteracao por indice: for i in range(len(lista)): ...
+Iteracao com indice e elemento: for i, item in enumerate(lista): ...
+Padrao acumulador: inicializa soma = 0, percorre lista somando elementos.
+Busca de extremos: max(lista) retorna o maior; min(lista) o menor.
+List Comprehension: sintaxe concisa [f(x) for x in lista if condicao].
+
+[TITULO] Matrizes (Listas Bidimensionais)
+Matriz = estrutura bidimensional organizada em linhas (i) e colunas (j).
+Em Python, e representada como uma lista de listas: m = [[1,2], [3,4]].
+Acesso ao elemento da linha i e coluna j: m[i][j].
+Numero de linhas: len(m). Numero de colunas da linha i: len(m[i]).
+Matriz vazia/inicializacao: [[0]*colunas for _ in range(linhas)].
+
+[TITULO] Percorrendo Matrizes com Laços Aninhados
+Varredura por linhas (padrao):
+for i in range(linhas):
+    for j in range(colunas):
+        processa(m[i][j])
+Diagonal principal: elementos onde i == j (somente em matrizes quadradas).
+Diagonal secundaria: elementos onde i + j == n - 1.
+Soma de linhas/colunas: acumular valores fixando o indice da linha ou coluna.
+
+[TITULO] Modularizacao e Definicao de Funcoes
+Modularizacao = divisao de programa em blocos autonomos e reutilizaveis.
+Sintaxe:
+def nome_funcao(parametro1, parametro2):
+    # corpo da funcao
+    return resultado
+Vantagens: reduz duplicacao de codigo, facilita manutencao e testes.
+Chamada: resultado = nome_funcao(val1, val2).
+
+[TITULO] Parametros e Retorno de Funcoes
+Parametros posicionais: passados na ordem definida na assinatura.
+Parametros nomeados (keyword args): passados pelo nome (ex: f(b=2, a=1)).
+Valores padrao (default args): def f(a, b=10): ... (b e opcional).
+Instrucao return: encerra a funcao e devolve um valor ao chamador.
+Retorno multiplo em Python: return x, y (retorna uma tupla (x, y)).
+Funcao sem return explícito devolve o valor especial None.
+
+[TITULO] Escopo de Variaveis e Docstrings
+Escopo local: variaveis criadas dentro de uma funcao sao locais a ela.
+Escopo global: variaveis criadas fora de funcoes, acessiveis em todo arquivo.
+Palavra-chave global: permite modificar variavel global dentro de funcao.
+Docstring: string tripla na primeira linha da funcao para documentacao.
+Exemplo:
+def soma(a, b):
+    """Retorna a soma de a e b."""
+    return a + b
+Acessivel via help(soma) ou soma.__doc__.
+
+[TITULO] Depuracao de Codigo (Debugging)
+Depuracao = processo sistematico de encontrar e corrigir erros.
+Tipos de erros:
+- Erros de sintaxe: violam regras da linguagem, detectados antes de rodar.
+- Erros de execucao (runtime): ocorrem durante execucao (ex: divisao por 0).
+- Erros de logica: programa roda mas produz resultado incorreto.
+Tecnicas: insercao de prints temporarios, uso de debuggers com breakpoints
+e execucao passo a passo (step over / step into).
+
+[TITULO] Testes Automatizados e Ferramenta pytest
+Testes automatizados = codigos que executam outros codigos verificando
+se os resultados produzidos sao os esperados.
+Vantagens: evitam erros manuais repetitivos, garantem confiabilidade e
+detectam regressoes quando o codigo e alterado.
+pytest = estrutura de testes popular em Python.
+Convencoes do pytest:
+- Nomes de arquivos de teste devem comecar com test_ (ex: test_calculo.py).
+- Nomes de funcoes de teste devem comecar com test_ (ex: def test_soma():).
+
+[TITULO] Escrita e Execucao de Testes com pytest
+Instrucao assert: verifica se uma condicao e verdadeira.
+Sintaxe: assert condicao, "mensagem de erro se falhar".
+Exemplo de funcao de teste:
+def test_somatorio():
+    assert somatorio(3) == 6
+    assert somatorio(0) == 0
+Execucao no terminal: digitar `pytest test_calculo.py` na pasta do arquivo.
+Resultado verde = todos os testes passaram; vermelho = apontamento de falhas.
+
+[TITULO] Estrategia e Casos de Teste (Casos de Borda)
+Um bom conjunto de testes deve cobrir diversos cenarios:
+- Casos normais (entradas tipicas do dia a dia).
+- Valores de borda / limite (zero, numeros negativos, colecoes vazias).
+- Erros off-by-one (erros por diferenca de 1 unidade em limites de laço).
+- Entradas invalidas ou inesperadas.
+Objetivo: cobrir o maximo de caminhos de codigo possivel (cobertura de testes).

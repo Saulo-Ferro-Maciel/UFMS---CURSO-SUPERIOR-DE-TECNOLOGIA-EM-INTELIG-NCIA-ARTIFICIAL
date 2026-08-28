@@ -1,0 +1,124 @@
+INTRODUCAO A CONCEITOS DE COMPUTACAO
+
+[TITULO] Arquitetura de Computadores (Modelo de Von Neumann)
+Componentes principais do hardware:
+1. Processador / CPU: Unidade Logica e Aritmetica (ULA), Unidade de Controle
+   (UC) e Registradores. Executa instrucoes e processa dados.
+2. Memoria Principal: RAM (volatil, leitura/escrita) e ROM (nao volatil, leitura).
+3. Memoria Secundaria: HD, SSD, pen drives (armazenamento permanente).
+4. Dispositivos de E/S: Entrada (teclado, mouse), Saida (monitor, impressora)
+   e Ambos (tela touch, placa de rede). Barramentos: dados, endereco e controle.
+
+[TITULO] Camadas de Software e Classificação
+Software e a parte logica do computador. Organiza-se em camadas:
+- Hardware: infraestrutura fisica.
+- Sistema Operacional: software basico que provê a base para o sistema.
+- Programas Utilitarios: manutencao, otimizacao e desenvolvimento (antivirus,
+  compactadores tipo WinZip/WinRAR, compiladores, interpretadores e IDEs).
+- Programas Aplicativos / do Usuario: realizam tarefas especificas do usuario
+  (editores de texto, planilhas, navegadores web, jogos).
+
+[TITULO] Ferramentas de Desenvolvimento e IDEs
+Compilador: traduz todo o codigo-fonte de uma vez para codigo de maquina.
+Interpretador: traduz e executa o codigo linha por linha (ex: Python3).
+Montador (Assembler): traduz linguagem assembly para linguagem de maquina.
+IDE (Integrated Development Environment): ambiente integrado que junta
+editor de codigo, compilador/interpretador e depurador.
+Exemplos de IDEs: PyCharm, VS Code, Eclipse, Code::Blocks, Visual Studio.
+
+[TITULO] Conceito e Objetivos do Sistema Operacional (SO)
+SO = software basico executado diretamente sobre o hardware digital.
+Objetivos principais:
+1. Gerenciar recursos de hardware (CPU, memoria, disco, E/S) de forma
+   eficiente, controlada, segura e justa entre programas.
+2. Fornecer uma interface abstrata e amigavel entre o computador e os
+   programas do usuario, escondendo detalhes complexos do hardware.
+Exemplos de SOs: Windows, Linux, MacOS, Android e iOS.
+
+[TITULO] Nucleo (Kernel) e Interfaces do Sistema Operacional
+Kernel: componente principal e central do SO que fica residente na RAM.
+Interfaces com o usuario:
+- CLI (Command Line Interface): interface por linha de comando baseada em texto.
+- GUI (Graphical User Interface): interface grafica com janelas, icones e ponteiro.
+O SO permite que varios usuarios compartilhem o mesmo computador e que
+varios programas sejam executados simultaneamente (multiprogramacao).
+
+[TITULO] Gerencia de Processos e Escalonamento
+Processo = programa em execucao (codigo + dados + estado de registradores).
+Multiprogramacao: tecnica que permite manter varios processos na memoria
+dividindo o tempo de uso do processador entre eles.
+Estados do processo: Pronto (aguardando CPU), Executando (usando CPU) e
+Bloqueado / Em Espera (aguardando operacao de E/S ou evento).
+Escalonador de CPU: modulo do SO que decide qual processo ganha a CPU.
+
+[TITULO] Gerencia de Memoria e Memoria Virtual
+Funcoes: alocar e liberar espacos na memoria principal (RAM) para programas,
+alem de garantir a protecao e o isolamento entre a memoria de diferentes processos.
+Memoria Virtual: tecnica que utiliza parte da memoria secundaria (disco) como
+extensao da memoria RAM fisica.
+Mecanismos: paginacao (divisao em blocos fixos chamados paginas) e swapping
+(troca de paginas entre a RAM e o disco) para rodar programas maiores que a RAM.
+
+[TITULO] Gerencia de Arquivos e de Entrada/Saida (E/S)
+Gerencia de Arquivos: organiza os dados em disco de forma estruturada em
+diretorios/pastas, controlando alocacao, acesso e permissoes.
+Gerencia de E/S: provê aos programas uma interface simples e padronizada
+para interagir com perifericos, escondendo peculiaridades dos dispositivos.
+Device Drivers (Drivers de Dispositivo): softwares especificos que traduzem
+comandos do SO para o hardware do dispositivo de E/S.
+
+[TITULO] Seguranca e Protecao no Sistema Operacional
+Mecanismos de Autenticacao: verificam a identidade do usuario (senhas,
+biometria, tokens) antes de conceder acesso ao sistema.
+Mecanismos de Protecao: controlam quais recursos do sistema (arquivos,
+dispositivos, memoria) cada usuario ou programa tem permissao de acessar.
+Matriz de acessos e permissoes de arquivos: leitura (r), escrita (w)
+e execucao (x) atribuidas a proprietario, grupo e outros.
+
+[TITULO] Conceito e Componentes de Redes de Computadores
+Rede de Computadores = infraestrutura de interconexao entre computadores
+e perifericos para permitir comunicacao de dados e compartilhamento de recursos.
+Componentes de conexao do dispositivo:
+- Placa de Rede / NIC (Network Interface Card) ou modulo de rede integrado.
+- Endereco MAC: endereco fisico unico gravado na placa de rede.
+Meios de transmissao: cabeados (par trancado, fibra optica) ou sem fio (Wi-Fi).
+
+[TITULO] Classificacao das Redes por Alcance Geografico
+PAN (Personal Area Network): rede pessoal de curtissimo alcance (ex: Bluetooth).
+LAN (Local Area Network): rede local conectando dispositivos em um mesmo
+ambiente fisico (ex: laboratorio de informatica, residencia, escritorio).
+MAN (Metropolitan Area Network): rede metropolitana conectando locais em
+uma distancia intermediaria (ex: campus universitario, rede municipal).
+WAN (Wide Area Network): rede de longa distancia conectando cidades, paises
+ou continentes (ex: Internet, RNP e redes de provedores).
+
+[TITULO] Equipamentos de Interconexao em Redes
+Repetidor: opera na camada fisica, amplificando e retransmite sinais.
+Switch: conecta multiplos computadores em uma mesma rede local (LAN),
+encaminhando quadros com base nos enderecos fisicos (MAC).
+Roteador: conecta redes de tipos e arquiteturas distintas (ex: LAN a WAN),
+encaminhando pacotes com base nos enderecos logicos (IP) e escolhendo rotas.
+
+[TITULO] Protocolos de Comunicacao e Padrao Ethernet
+Protocolo de Comunicacao = conjunto formal de regras e padroes que definem
+como os dados sao formatados, transmitidos e como erros sao detectados.
+Permite que computadores com arquiteturas e SOs diferentes se comuniquem.
+Ethernet: tecnologia e padrao dominante em redes locais (LAN), definindo
+cabeamento, formato dos quadros de dados, velocidade e controle de acesso.
+
+[TITULO] A Internet e a Arquitetura TCP/IP
+Internet = rede mundial de computadores que interconecta LANs, MANs e WANs
+utilizando o conjunto de protocolos TCP/IP.
+Protocolo IP (Internet Protocol): endereçamento logico (IPv4/IPv6) e
+encaminhamento dos pacotes de dados atraves dos roteadores da rede.
+Protocolo TCP (Transmission Control Protocol): garante a entrega confiavel,
+ordenada e sem erros dos pacotes mediante confirmacao (ACK).
+Protocolo UDP (User Datagram Protocol): conexao rapida sem garantia de entrega.
+
+[TITULO] Protocolos de Aplicacao da Internet
+HTTP / HTTPS: transferencia de paginas e conteudos da web (HTTPS usa SSL/TLS).
+FTP / SFTP: transferencia e manipulacao de arquivos remotos.
+SSH (Secure Shell): acesso e administracao remota de computadores via CLI.
+DNS (Domain Name System): traduz nomes de dominio (ex: ufms.br) em IPs.
+DHCP: atribui configuracoes de IP automaticamente aos dispositivos da rede.
+VoIP (Voice over IP): transmissao de audio e comunicacao de voz sobre IP.

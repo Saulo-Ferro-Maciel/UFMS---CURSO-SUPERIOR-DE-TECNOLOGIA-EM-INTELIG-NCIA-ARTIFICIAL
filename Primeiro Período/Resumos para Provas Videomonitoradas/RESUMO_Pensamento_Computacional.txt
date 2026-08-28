@@ -1,0 +1,62 @@
+PENSAMENTO COMPUTACIONAL
+
+[TITULO] Conceito e Pilares do Pensamento Computacional
+PC e uma habilidade de resolucao de problemas dividida em 4 pilares:
+1. Decomposicao: dividir problema complexo em subproblemas menores.
+2. Reconhecimento de Padroes: identificar repeticoes e tendencias.
+3. Abstracao: filtrar o essencial e ignorar detalhes irrelevantes.
+4. Algoritmos: criar passos logicos, finitos e claros para solucao.
+Permite estruturar questoes de qualquer area de forma sistematica.
+
+[TITULO] Analise e Diagnostico de Problemas (4 Eixos)
+Para aplicar o PC no mundo real, analisa-se o problema em 4 eixos:
+- Dados: coleta qualiquantitativa de registros e frequencia de uso.
+- Contexto: fatores sociais, economicos, culturais e tecnologicos.
+- Causa: fatores diretos e indiretos que geram a situacao problema.
+- Impacto: consequencias imediatas e de longo prazo na comunidade.
+
+[TITULO] Ciclo de Solucao e Ferramentas de Prototipo
+Etapas de desenvolvimento: Identificacao -> Analise -> Prototipacao ->
+Implementacao -> Testes -> Refinamento continuo.
+Ferramentas de bloco por tipo de projeto:
+- Jogos 2D e historias interativas: Scratch.
+- Robotica e simulacao 3D: GearsBot e Tinkercad.
+- Aplicativos para dispositivos moveis: AppInventor.
+
+[TITULO] Programacao em Blocos e os 4Ps do MIT
+Programacao visual inspirada em Lego abstrai sintaxe e evita erros.
+Scratch (Mitchel Resnick / MIT): plataforma de criacao e partilha.
+4Ps da Aprendizagem Criativa (Resnick):
+- Projects (Projetos): aprender construindo algo concreto.
+- Passion (Paixao): trabalhar em temas de interesse pessoal.
+- Peers (Pares): cooperar, compartilhar e aprender em grupo.
+- Play (Play): experimentar com liberdade e aprender com erros.
+
+[TITULO] Desenvolvimento de Narrativas Digitais no Scratch
+Elementos essenciais para criacao de historias e jogos no Scratch:
+- Sprites (Atores): objetos animados com fantasias (costumes).
+- Cenarios (Backdrops): planos de fundo que alteram com a historia.
+- Enredo: sequencia de blocos logicos que regem as acoes.
+- Recursos: balao de fala/pensamento, sons, variaveis e eventos
+  como cliques de mouse, teclas e mensagens transmitidas (broadcast).
+
+[TITULO] Jogos e Computacao Desplugada (CS Unplugged)
+Jogos virtuais estimulam raciocinio estrategico (Physics Drop, Sudoku).
+Computacao Desplugada (Bell, Witten e Fellows - CS Unplugged): ensino
+de conceitos de computacao sem uso de computadores ou telas.
+Competicoes de incentivo: OBI (Olimpiada Brasileira de Informatica) e
+OBR (Olimpiada Brasileira de Robotica) nas fases teorica e pratica.
+
+[TITULO] Evolucao Historica e Habilidades do Futuro
+Origem: Seymour Papert (1980, linguagem Logo) e Jeannette Wing (2006).
+Relatorio Future of Jobs (Forum Economico Mundial 2023): destaca o PC
+como indispensavel para pensamento analitico, inovacao, resolucao de
+problemas complexos, pensamento critico e aprendizado ativo.
+Capacita o cidadao para enfrentar os desafios da era digital.
+
+[TITULO] Legislacao e Politicas de Computacao no Brasil
+PNED (Lei n 14.533/2023): Politica Nacional de Educacao Digital,
+focada em inclusao, educacao escolar, capacitação e P&D em TICs.
+BNCC Computacao (Parecer CNE/CEB 2/2022 e Resolucao CNE/CEB 1/2022):
+normas que garantem o ensino de computacao na Educacao Basica.
+Busca nivelar oportunidades e reduzir a exclusao digital no pais.
