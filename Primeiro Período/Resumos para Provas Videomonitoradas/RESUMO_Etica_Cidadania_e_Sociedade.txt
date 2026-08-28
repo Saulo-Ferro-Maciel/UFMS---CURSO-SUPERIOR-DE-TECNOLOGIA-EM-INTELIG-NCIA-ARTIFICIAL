@@ -1,0 +1,468 @@
+ETICA, CIDADANIA E SOCIEDADE
+
+[TITULO] Moral x Etica (nucleo)
+Moral = regras e costumes que a comunidade adquire por habito
+(convivencia obrigatoria, varia entre sociedades). Etica = parte
+da filosofia que REFLETE sobre os atos morais; e a "teoria
+moral". Etica e mais ampla que a moral. Ato moral exige: agir,
+motivacao, consciencia e liberdade. Etica de conviccao = seguir
+regras por crenca inabalavel. Etica de responsabilidade = segue
+regras em funcao dos resultados da acao.
+
+[TITULO] Pessoa, consciencia e referencia etica
+Pessoa = ser com CONSCIENCIA (essencia que distingue o humano
+de outros animais). Consciencia significa "com conhecimento,
+com sabedoria"; e moldada pelas condicoes culturais externas
+(controle inato + ambiente social). Raz pratica da etica:
+pensar ordenado + falar com clareza. O humano apreende a ser
+etico pelo proprio viver e suas experiencias cotidianas.
+
+[TITULO] Etica, cidadania e sociedade
+Etica = principios que norteiam a conduta individual frente
+ao outro. Cidadania = exercicio de direitos e deveres dentro
+do Estado com base nesses principios. Sao distintos, mas
+inseparaveis: nao existe cidadania plena sem etica. Sociedade
+= grupo que busca o bem comum com valores morais, normas e
+leis compartilhadas. Sem etica, a sociedade cai no caos.
+
+[TITULO] Etica de conviccao vs responsabilidade
+Conviccao = respeito incondicional as regras morais (crenca
+inabalavel, ignora consequencia). Responsabilidade = julga
+pelos resultados da acao. A aula usa o exemplo classico de
+Weber para distinguir os dois. Saber citar os dois tipos e
+saber dar um exemplo pratico de cada e ponto classico de
+prova.
+
+[TITULO] Princípios eticos do cidadao
+Humanidade, imparcialidade, neutralidade, independencia,
+voluntariado, universalidade, solidariedade, JUSTICA,
+autonomia e liberdade. Esses principios, juntos, definem o
+que e ser cidadao. A prova pode pedir para listar os
+principios ou relaciona-los a um exemplo (ex.: boicote a
+empresas sem etica, ISO 26000, Instituto Ethos no Brasil).
+
+[TITULO] Regra vs Lei (chave de prova)
+REGRA = produto da MORAL; produz sujeito-objeto controlado e
+submisso (conformizacao). LEI = produto da ETICA; permite ao
+homem viver singular, ordenado e livre, com Eu autonomo.
+Projeto etico = remover as amarras dos controles morais;
+a etica ATUALIZA a lei. Sem isso, sociedade gera estresse,
+ansiedade, depressao. Dica: contrapor regra X lei sempre
+que a pergunta envolver "liberdade" ou "reflexao".
+
+[TITULO] Tres momentos da sociedade tecnologica
+1. Renascimento (sec. XIV-XVI): origem divina -> cientifica.
+2. Revolucao Industrial (sec. XVIII): automatiza trabalho,
+   mecaniza o tempo, urbaniza.
+3. Automacao da sociedade (1950+): computador, fluxo de
+   informacao, sistema cientifico-tecnologico. E a ERA DA
+   INFORMACAO: TICs, globalizacao, internet, conectividade,
+   virtualidade, instantaneidade.
+
+[TITULO] Caracteristicas da era da informacao
+Espacos fisicos menores e arquivos eletronicos. Data centers
+descentralizados. Processos moveis e flexiveis. Trabalho
+mental > fisico. IA reduz tarefas repetitivas e cede lugar
+a criatividade. Pessoas passam de "recursos produtivos"
+para CAPITAL HUMANO. Talento e fator diferencial; trabalho
+em equipe e incentivado.
+
+[TITULO] Capital intelectual e gestao do conhecimento
+Conhecimento e o principal ativo da empresa na era da
+informacao (conhecimento define o capital financeiro).
+Obsolescencia e constante -> gestao do conhecimento e o
+fator diferenciador. Educacao corporativa + aprendizagem
+organizacional (eixos: dominio pessoal, modelos mentais,
+visao compartilhada, aprendizagem em equipe, pensamento
+sistematico). Exemplo: Valer (universidade corporativa da
+Vale).
+
+[TITULO] Etica empresarial e responsabilidade social
+RS = conjunto de ideias e praticas da empresa em sua
+estrategia para gerar beneficio / evitar prejuizo a
+sociedade. Fundamentos: poder social, sistema de duas vias,
+custos/beneficios sociais, responsabilidade por problemas
+sociais. ISO 26000 (01/11/2010) -> diretrizes de RS.
+Instituto Ethos = consultoria brasileira. Sociedade boicota
+empresas sem etica: clientes e o mercado punem.
+
+[TITULO] Conflitos eticos nas empresas
+Dilema central: lucro a qualquer custo X principios morais.
+Lei antitrust e leis trabalhistas/consumidor -> punicao
+quando desobedecidas. Etica social e codificada no sistema
+legal e ritualizada em costumes. Etica profissional = valores
+e regras de um grupo de trabalho (medico, advogado, etc).
+Tres niveis de analise: micro (individuo), intermediario
+(org), macro (contexto social/economico).
+
+[TITULO] Codigos de conduta e NDA
+Codigo de conduta = instrumento que disciplina o "ser etico",
+define o que e bom e praticas apropriadas. Cria cultura
+etica e canais de fiscalizacao (stakeholders, orgaos
+reguladores). NDA (Non-Disclosure Agreement) = acordo de
+confidencialidade para proteger dados sensiveis (clientes,
+planos, propriedade intelectual). Obrigacao legal para
+funcionarios em informacoes estrategicas.
+
+[TITULO] Origem da etica digital (linha do tempo)
+1940: Norbert Wiener funda a Cibernetica e reflete sobre
+impacto da tecnologia na sociedade (sem citar o termo
+"etica digital"). 1942: Isaac Asimov cria as 3 Leis da
+Robotica no conto Runaround. Depois: cria a Lei Zero
+(protege a HUMANIDADE, nao so o individuo). Visao de
+Asimov: IA deve ser segura para o individuo E para a
+sociedade/ecossistema global.
+
+[TITULO] As 3 Leis da Robotica + Lei Zero
+1a Lei: robo nao pode ferir humano nem permitir que sofra.
+2a Lei: robo deve obedecer ordens humanas, exceto se
+conflitarem com a 1a. 3a Lei: robo deve proteger sua
+existencia, respeitando 1a e 2a. Lei Zero (posterior):
+robo nao pode causar mal a humanidade, nem por inacao.
+Hierarquia: Lei Zero > 1a > 2a > 3a.
+
+[TITULO] Cenario atual da IA (curva de adocao)
+ChatGPT: 5 dias para 1 milhao de usuarios, 100 milhoes em
+2 meses. Instagram: 2,5 anos para a mesma marca. Aceleracao
+impede que governos analisem efeitos colaterais. IA tem
+autoaprendizado -> muda parametros sozinha, dificil prever
+comportamento futuro. Solucao: diretrizes eticas + P&D em
+monitoramento de risco.
+
+[TITULO] Principios globais: OCDE (2019)
+Primeira norma intergovernamental sobre IA confiavel.
+Princípios: Crescimento Inclusivo e Sustentavel, Valores
+Centrados no Ser Humano, Transparencia e Explicabilidade,
+Robustez e Seguranca, Responsabilidade (Accountability).
+Base para politicas publicas de paises democraticos,
+incluindo o Brasil.
+
+[TITULO] Principios globais: UNESCO (2021)
+Recomendacao sobre Etica da IA, assinada por 193 paises.
+Foco: Ser Humano, Etica e Valores, Direitos Humanos e
+Ambiente, Impacto no Brasil, Governanca. E um GUIA (nao
+lei) para uso etico da IA com direitos humanos e
+sustentabilidade. Prova pode pedir: o que e (recomendacao),
+quantos paises assinaram (193) e diferenca para a OCDE
+(OCDE=norma; UNESCO=recomendacao).
+
+[TITULO] Temas criticos nas organizacoes
+(1) Responsabilidade em sistemas autonomos. (2) Explicabi-
+lidade das decisoes. (3) Privacidade e controle de dados.
+(3a) Saude: vazamentos de dados medicos. (4) LGPD: exige
+consentimento. (5) Mercado de trabalho: ate 800 milhoes
+de desempregados (estimativa). (6) Direitos autorais em IA
+generativa. (7) vies e preconceito (bias) -> mitigacao.
+
+[TITULO] Abordagem baseada em risco (UE)
+AI Act = primeira legislacao ABRANGENTE do mundo sobre IA.
+Classificacao em 4 niveis: (1) INACEITAVEL = proibido
+(ex.: social scoring pelo Estado, manipulacao subliminar,
+exploracao de vulnerabilidades de idade/deficiencia).
+(2) ALTO RISCO = regulacao estricta (infraestrutura
+critica, educacao, recrutamento, gestao de trabalhadores).
+(3) RISCO LIMITADO = transparencia. (4) MINIMO = sem
+obrigacao nova. Efeito Bruxelas: influencia legislacoes
+no mundo, inclusive o Brasil.
+
+[TITULO] EU AI Act - cronograma
+Publicado no Jornal Oficial da UE em 12/07/2024; entrou
+em vigor em 01/08/2024. Proibicoes e obrigacao de
+"alfabetizacao em IA" desde 02/02/2025. Transparencia
+para modelos de proposito geral desde 02/08/2025. Aplicacao
+plena para sistemas de ALTO RISCO a partir de 02/08/2026.
+Sancoes: ate 35 milhoes de euros ou 7% do faturamento
+global anual.
+
+[TITULO] PL 2338/2023 (Brasil) - status
+Iniciado com PL 21/2020 (principios gerais). Hoje: PL
+2338/2023, "Marco Legal da IA". Inspirado no AI Act.
+Aprovado por unanimidade no Senado em 10/12/2024. Remetido
+a Camara em marco/2025; em 2026 ainda em tramitacao
+(Comissao Especial). Entrave constitucional: Executivo
+apontou vicio de iniciativa por atribuir competencias a
+ANPD (materia de iniciativa privativa). Em dez/2025, PL
+complementar formalizou o SIA (Sistema Nacional de
+Regulacao e Governanca de IA, com participacao da ANPD).
+
+[TITULO] PL 2338/2023 - pontos centrais
+Risk-based como no AI Act. Garantias em lei ao usuario:
+direito a explicacao clara sobre decisoes automatizadas;
+direito a intervencao humana em processos criticos; direito
+a nao discriminacao e correcao de vieses. Classificacao:
+risco excessivo (proibido) e alto risco (regulado).
+Responsabilidade CIVIL objetiva para fornecedores de alto
+risco, com inversao do onus da prova em favor da vitima.
+Governanca: Avaliacao de Impacto Algoritmico, Autoridade
+Nacional, Sandbox Regulatorio, Transparencia dos Dados
+de Treinamento.
+
+[TITULO] PL 2338/2023 - exemplos de alto risco
+Diagnosticos medicos e procedimentos cirurgicos; avaliacao
+de credito e selecao de candidatos a emprego; gestao de
+redes de energia, agua e transportes publicos. Dica de
+prova: o PL diferencia "risco excessivo" (proibido) de
+"alto risco" (regulado), ao contrario do senso comum.
+
+[TITULO] Outros modelos regulatorios
+EUA: SEM lei federal unica; abordagem setorial por agencia
+(ex.: saude). Ordens executivas de 2023 para seguranca e
+lideranca. China: regras rigidas para algoritmos de
+recomendacao e busca; registro oficial de modelos
+generativos; foco em valores do Estado e ordem social.
+Reino Unido: regulacao FLEXIVEL, pro-inovacao; delega a
+reguladores setoriais existentes. Convergencia: discussoes
+em G7 e G20 sobre interoperabilidade e cooperacao.
+
+[TITULO] GDPR x LGPD - o Art. 20
+LGPD (Lei 13.709/2018) e inspirada no GDPR europeu. Art. 20
+da LGPD: titular tem direito a REVISAO de decisoes tomadas
+UNICAMENTE por maquinas. E o "direito a explicacao" no
+Brasil. Decisao automatizada = pessoa pode pedir revisao
+humana. Prova pode pedir: numero da lei, ano, e o que diz
+o Art. 20.
+
+[TITULO] RAI - Inteligencia Artificial Responsavel
+RAI = conjunto de principios e praticas para garantir que
+sistemas de IA sejam eticos, seguros, transparentes e
+confiaveis em TODO o ciclo de vida. Carateres: Normativo
+(ser confiavel e buscar bem comum), Possessivo (deveres e
+obrigacoes de criadores/usuarios/IA), Descritivo (atribuir
+causa de danos, ex.: "o software e responsavel pelo
+incidente"). Governanca transforma principios abstratos em
+praticas aplicaveis.
+
+[TITULO] RAI - Confianca vs Confiabilidade
+Confianca = crenca SUBJETIVA do usuario no sistema.
+Confiabilidade = quao bem o sistema foi PROJETADO para
+cumprir sua funcao (objetiva). Papel da governanca =
+CALIBRAR a confianca para que ela seja justificada e
+baseada em evidencias. Diferenca crucial em prova: nao
+basta o sistema ser confiavel tecnicamente; o usuario
+precisa acreditar com base em evidencia, nao em marketing.
+
+[TITULO] Por que IA exige governanca diferenciada
+(1) Escala: automacao amplia impacto de falhas para milhoes.
+(2) Inescrutabilidade: "caixa-preta" dificulta explicabilidade
+tradicional. (3) Autonomia: IA toma decisoes opacas que
+desafiam a agencia humana. Solucao: observabilidade e
+monitorabilidade RADICAIS (nao so para erro, mas para
+governanca), modelos de controle sistemico + estudo
+comportamental.
+
+[TITULO] RAI - 3 niveis de padroes
+1. GOVERNANCA: diretrizes multinivel (industria, organizacao,
+equipe). Inclui leis, certificacao RAI, sandbox, comite de
+risco, codigo de conduta, treinamento em RAI, FMEA, FTA.
+2. PROCESSO: ciclo de vida do desenvolvimento - requisitos,
+design, implementacao, testagem, operacoes. Inclui historias
+de usuario de RAI, modelagem RAI, XAI (interface IA
+explicavel), governanca de APIs, testagem de aceitacao.
+3. PRODUTO: camadas tecnicas no design - cadeia de suprimentos
+(credencial verificavel, aprendiz federado), sistema
+(comutadores de modo IA, redundancia homogenea), infraestrutura
+(validador continuo, sandbox RAI, caixa-preta, gêmeo digital).
+
+[TITULO] Caso Telstra (Austrália) - gestao de riscos
+Telstra = lider em telecom na Australia. Problema: HUNDREDS
+de equipes operando sistemas de IA simultaneamente (escala).
+Jornada: comecou com principios de alto nivel -> migrou
+para controle pratico. Principios RAI: Beneficio Social,
+Privacidade, Seguranca, Transparencia, Igualdade. Criou o
+RCAID (Responsible AI Risk Committee) = comite
+MULTIDISCIPLINAR (etica, juridico, ciencia de dados, riscos
+de negocio). Governanca baseada em riscos: identificar
+riscos ANTES do deploy.
+
+[TITULO] Caso Telstra - matriz de exposicao
+Aparece nos slides como GRAFICO (matriz de exposicao a
+riscos). Cruzamento de PROBABILIDADE x IMPACTO. Regiao
+vermelha = alto risco -> exige mitigacao prioritaria.
+Regiao verde = baixo risco -> monitoramento normal.
+Dica: em prova, saber DESCREVER o grafico mesmo sem ver
+(eixo X = probabilidade, eixo Y = impacto, cor = nivel
+de risco).
+
+[TITULO] Caso Reejig - auditoria de IA de talentos
+Reejig = plataforma de IA para gestao de talentos (skills-
+first). Problema: vieses PREJUDICIAIS em IA de RH (nao
+intencionais e obvios). Solucao: parceria com UTS (Sydney)
+criou a 1a CERTIFICACAO de IA etica de talentos auditada.
+Auditoria: testes em grupos protegidos (genero, origem,
+idade, etnia); governanca continua (revisao periodica);
+foco em SKILLS, nao em perfil pessoal.
+
+[TITULO] Caso Reejig - vieses
+Vieses de DADOS: precisao, completude, consistencia,
+validade, atualidade, exclusividade. Vieses HUMANOS:
+estereotipo, efeito manada (cognitivo), efeito priming
+(decisao rapida), selecao (amostra nao aleatoria),
+confirmacao (reforco de crenca). Visao "Zero Wasted
+Potential": nenhuma habilidade desperdiçada por preconceito
+ou falta de dados. Marca empregadora = usar tecnologia de
+forma justa.
+
+[TITULO] Caso Amazon - vies em recrutamento
+Caso CLASSICO citado nas videoaulas. Sistema de IA da
+Amazon para recrutamento PENALIZAVA mulheres (treinado
+sobre currículos historicos de 10 anos, em sua maioria
+masculinos). Modelo aprendeu a rejeitar perfis femininos.
+Licao: dados historicos reproduzem vieses sociais; design
+e desenvolvimento tem impacto etico direto. Equipes
+homogeneas NAO enxergam esses vieses.
+
+[TITULO] Caso reconhecimento facial - vies racial
+Estatistica CLASSICA: mulheres de pele escura: 34,7% de
+erro de identificacao. Homens de pele clara: 0,8%. Prova
+pode pedir os numeros exatos. Licao: vies NAO CONSCIENTE
+(e sem intencao), mas reproduz racismo sistemico.
+Tambem: o contexto geopolitico importa (modelos treinados
+em um pais podem falhar em outro).
+
+[TITULO] Inclusao by Design
+Conceito: integrar igualdade, diversidade e nao discriminacao
+DESDE a fase inicial de concepcao da IA. Permear TODO o
+ciclo de vida: planejamento, coleta de dados, treinamento,
+monitoramento. NAO basta "nao discriminar"; deve PROMOVER
+ativamente justica social. Pilares: envolvimento da
+comunidade, identificacao de vieses invisiveis, supervisao
+humana (human-in-the-loop), transparencia, auditabilidade,
+divulgacao de riscos.
+
+[TITULO] Direitos Humanos na IA (abordagem ONU/OCDE)
+Relatorio do Alto Comissariado da ONU (A/HRC/48/31, set/2021)
+mostra que IA afeta o GOZO dos direitos fundamentais pelos
+Estados e empresas. Foco: perfilamento, decisao automatizada,
+aprendizado de maquina. Principios: Igualdade/nao discriminacao,
+Participacao, Responsabilizacao. Requisitos juridicos: LEGALIDADE,
+legitimidade, NECESSIDADE, PROPORCIONALIDADE (4 criterios que
+costumam cair juntos em prova).
+
+[TITULO] Direitos sociais via IA (4 A's)
+Disponibilidade (acesso as ferramentas), Acessibilidade
+(remover barreiras), Aceitabilidade (etica e cultural),
+Qualidade (precisao e seguranca). Mecanismos: direito ao
+recurso e reparacao, acesso a justica, vias nao judiciais
+(denuncias). Dica: decorar os 4 A's e os 4 requisitos
+(legalidade/legitimidade/necessidade/proporcionalidade)
+como bloco de prova.
+
+[TITULO] Cidadania Digital
+Conjunto de normas, responsabilidades e direitos para uso
+seguro, etico e responsavel da internet. Inclui: respeitar
+o proximo, proteger privacidade, nao compartilhar fake news,
+nao praticar cyberbullying, respeitar direitos autorais.
+Sinonimos: etica digital, comportamento etico na internet,
+responsabilidade digital, uso consciente da tecnologia.
+Visa INCLUSAO de todas as pessoas na sociedade da informacao.
+
+[TITULO] Soberania digital em IA
+Pilar fundamental: soberania NAO e so tecnica, e POLITICA e
+ETICA. Visa garantir que IA respeite valores e direitos
+fundamentais locais, regionais e internacionais. Riscos:
+vantagem assimetrica (licencas caras = exclusao), desresponsa-
+bilizacao, riscos cognitivos em criancas e idosos. Convergencia
+obrigatoria com SUSTENTABILIDADE ambiental.
+
+[TITULO] IA e pegada ambiental
+Treinamento de LLMs consome eletricidade massiva (pegada
+de carbono). Data centers usam BILHOES de litros de agua
+para resfriamento (water footprint). Solucao: resfriamento
+em circuito fechado, aproveitamento de clima favoravel.
+Lixo eletronico (e-waste) de chips de IA e problema serio.
+Mineracao critica: litio e cobalto.
+
+[TITULO] IA e crise dos valores
+Ciencia pode gerar conhecimento sem se preocupar com
+consequencias (ex.: bomba atomica como forma de poder e
+dominacao). Sociedade capitalista prioriza o TER (possessao)
+sobre o SER (humano). A tecnologia NAO incentiva valores
+abstratos/atemporais/universais -> massificacao, alienacao,
+falta de criatividade. Lado positivo: democracia digital
+(ex.: Estonia com governo digital 100%).
+
+[TITULO] Pilares da IA Sustentavel
+Transparencia total sobre funcionamento dos algoritmos.
+Protecao integral dos direitos dos consumidores e dados.
+Responsabilidade CLARA entre todos os atores da cadeia
+(desenvolvedores, operadores, distribuidores). Mecanismos
+de recuperacao de falhas (paradas/suspensao de produtos).
+Justica climatica digital: Norte Global nao pode usar
+recursos do Sul Global sem contrapartida ambiental.
+
+[TITULO] Cinco dimensoes dos Direitos Fundamentais
+(1) Privacidade e Protecao de Dados (LGPD/GDPR).
+(2) Nao Discriminacao / Equidade algoritmica (vieses).
+(3) Dignidade e Autonomia (pessoa nao e "dado processado").
+(4) Transparencia e Explicabilidade (direito a explicacao).
+(5) Revisao Humana / Human in the loop (contestar decisao
+automatizada). Sao "desdobramentos" da protecao de direitos
+fundamentais; equilibrio com Inovacao Tecnologica.
+
+[TITULO] Supervisao humana e RIPD
+Human-in-the-loop = humanos podem intervir em decisoes
+da maquina; botao de paragem/suspensao em emergencias.
+Robustez + Ciberseguranca = resistencia contra erros,
+falhas e tentativas de invasao. RIPD = Relatorio de Impacto
+a Protecao de Dados: analisa riscos as liberdades
+fundamentais, descreve criterios de decisao, niveis de
+acuracia e mitigacoes. RGPD chama de DPIA; no Brasil, ANPD
+detalha a obrigatoriedade.
+
+[TITULO] Compliance e ferramentas praticas
+Compliance = verificar conformidade legal/etica. Ferramentas:
+(1) Governanca de dados e datasets de treino (qualidade,
+representatividade, sem vieses). (2) Documentacao tecnica
+obrigatoria do algoritmo. (3) Logging (registro de eventos
+para auditoria). (4) Transparencia ao usuario final
+(informar que e IA, capacidades e limitacoes).
+(5) Supervisao humana (HITL). (6) RIPD/Avaliacao de Impacto.
+
+[TITULO] Implementacao organizacional
+Comite de Etica em IA = grupo multidisciplinar para avaliar
+novos projetos. Codigo de conduta RAI. Treinamento das
+equipes em etica computacional. Monitoramento pos-venda +
+feedback. Certificacao dos sistemas (selo de confianca).
+Sandbox regulatorio para inovacao segura. Autoridades de
+supervisao: fiscalizacao ativa, multas, guias de boas
+praticas. Pilares: Transparencia, Protecao, Responsabilidade,
+Recuperacao de falhas.
+
+[TITULO] Convergencia Internacional
+Discussoes em G7 e G20 sobre governanca global,
+interoperabilidade e cooperacao frente aos riscos da IA.
+Efeito Bruxelas: legislacao da UE influencia o resto do
+mundo (EUA, Brasil, Asia). Convergencia NAO e uniforme:
+EUA inova, China controla, UK flexibiliza, UE regula, BR
+segue o modelo risk-based inspirado na UE. Marco legal
+brasileiro (PL 2338) e o caso em curso mais importante.
+
+[TITULO] Outras questoes eticas contemporaneas
+Slide final do M2 de Etica, Cidadania e Sociedade lista
+duas colunas. Teoricas/praticas: desigualdade social,
+direitos humanos, escravidao, genero e diversidade,
+injustica/impunidade, racismo, relacoes etnico-raciais,
+trabalho. Crises: social (desigualdade), do trabalho
+(automatizacao), ecologica (mudanca climatica), dos dados
+(privacidade e confidencialidade). Dica: usar essa lista
+para formular respostas sobre "desafios atuais".
+
+[TITULO] Paradigmas em risco
+Mito da Neutralidade: falsa crenca de que algoritmos sao
+neutros. Realidade algoritmica: IA (re)produz discriminacao
+e exclusao. Problema das "personas": representacoes
+hipoteticas estereotipadas que alienam a audiencia real.
+Fosso digital: infraestrutura desigual entre campo e cidade
+e entre paises. Grupos protegidos: criancas (cognicao),
+idosos, pessoas com deficiencia (autismo, TDAH). Vigilancia
+e "capitalismo de vigilancia".
+
+[TITULO] Frases para citar em prova
+"Etica e a teoria moral; moral e o costume." "Regra e
+produto da moral; lei e produto da etica." "Lei Zero de
+Asimov protege a humanidade, nao o individuo." "Confianca
+e crenca subjetiva; confiabilidade e qualidade objetiva."
+"Classificacao de risco e o ponto de partida de quase todo
+o resto no mapa." "Quem paga pelo dano algoritmico?"
+"PL 2338 inspira-se no AI Act mas tem vicio de iniciativa."
+"Inclusao by Design: da concepcao ao monitoramento."
