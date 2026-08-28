@@ -1,0 +1,76 @@
+================================================================
+REGRAS DE ORGANIZACAO - Primeiro Periodo (UFMS Digital)
+Local: /home/saulo/Documentos/UFMS Digital/Primeiro Periodo/
+================================================================
+
+Esta pasta agrupa TODOS os materiais das disciplinas do
+PRIMEIRO PERIODO do curso UFMS Digital. Disciplinas atualmente
+neste periodo (verificar sempre se a lista mudou):
+
+    * Algoritmos e Programacao I
+    * Introducao a Conceitos de Computacao
+    * Pensamento Computacional
+    * Etica, Cidadania e Sociedade
+    * EAD e Sistemas de Informacao da UFMS
+
+----------------------------------------------------------------
+1. ESTRUTURA PADRAO DE UMA DISCIPLINA
+----------------------------------------------------------------
+Cada disciplina tem sua propria subpasta. Dentro dela:
+
+    Disciplina X/
+        PROVAS/                 -> provas, quizzes e atividades
+                                   avaliativas
+        arquivos soltos (.pdf)  -> videoaulas, materiais de
+                                   apoio, resumos
+        README ou resumo.txt    -> opcional, anotacoes da
+                                   disciplina
+
+Nao criar pastas extras nao previstas (ex: "lixo", "tmp",
+"backup") dentro de disciplina. Se precisar guardar rascunho,
+usar uma pasta "_rascunho" no maximo uma vez por disciplina.
+
+----------------------------------------------------------------
+2. ONDE COLOCAR CADA COISA
+----------------------------------------------------------------
+- Videoaula nova do AVA   -> pasta da disciplina correspondente
+- Prova / avaliacao       -> pasta da disciplina / PROVAS/
+- Material geral do AVA   -> raiz do "Primeiro Periodo/"
+  (ex: Guia de Sobrevivencia)
+- Resumo pessoal          -> pasta da disciplina correspondente
+- Trabalho em grupo       -> pasta da disciplina correspondente
+
+----------------------------------------------------------------
+3. NOMENCLATURA
+----------------------------------------------------------------
+- Videoaulas: manter nome original do AVA, ex:
+    [UFMS Digital] Nome da Disciplina - Videoaula do
+        Modulo N - Unidade X.pdf
+- Provas/atividades: usar prefixo "AVALIACAO_" antes do nome,
+  em CAIXA ALTA, separando palavras com underline, ex:
+    AVALIACAO_Atividade_Pensamento_Computacional.pdf
+    AVALIACAO_Modulo_1_Introducao_a_Computacao.pdf
+- Codigos de prova (.py, .c, etc.) tambem usam o prefixo
+  "AVALIACAO_" no inicio.
+
+----------------------------------------------------------------
+4. REGRAS DE CONTEUDO
+----------------------------------------------------------------
+- Tudo dentro de "Primeiro Periodo/" deve ser de materia
+  cursada NESTE periodo. Ao avancar de periodo, mover
+  arquivos para a nova pasta de periodo correspondente.
+- Nada aqui deve vir de periodo posterior, nem de curso
+  paralelo ou projeto pessoal.
+
+----------------------------------------------------------------
+5. CHECKLIST ANTES DE SALVAR ARQUIVO NOVO
+----------------------------------------------------------------
+- Pertence mesmo ao 1o periodo?                 ( ) sim
+- Ja tem pasta da disciplina?                   ( ) sim
+- Se for prova, foi para "PROVAS/" dentro dela?  ( ) sim
+- Nome segue a nomenclatura da secao 3?         ( ) sim
+- Nao duplica arquivo existente?                 ( ) sim
+
+================================================================
+FIM DAS REGRAS - Primeiro Periodo
+================================================================

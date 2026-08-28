@@ -1,0 +1,67 @@
+================================================================
+REGRAS DE ORGANIZACAO - UFMS Digital
+Local: /home/saulo/Documentos/UFMS Digital/
+================================================================
+
+Este diretorio eh o container geral de TODOS os materiais da
+faculdade UFMS Digital. Tudo que for relacionado ao curso entra
+aqui, organizado por PERIODO letivo.
+
+----------------------------------------------------------------
+1. ESTRUTURA GERAL
+----------------------------------------------------------------
+- Cada periodo letivo deve ter sua propria subpasta.
+- Nome das subpastas de periodo: "Primeiro Periodo",
+  "Segundo Periodo", "Terceiro Periodo", e assim por diante.
+- NUNCA criar arquivos soltos diretamente em "UFMS Digital/".
+  Qualquer material novo deve entrar dentro da subpasta do
+  periodo correspondente.
+- Quando um periodo for concluido, manter a pasta como
+  historico (nao excluir).
+
+----------------------------------------------------------------
+2. PASTAS DE DISCIPLINA
+----------------------------------------------------------------
+- Dentro de cada pasta de periodo, cada DISCIPLINA tem sua
+  propria subpasta.
+- Nome da pasta da disciplina deve ser identico (ou muito
+  proximo) ao nome oficial da disciplina no AVA UFMS.
+- Dentro de cada pasta de disciplina, em geral ficam:
+    * subpasta "PROVAS/"   - avaliacoes e arquivos de prova
+    * arquivos soltos      - videoaulas, PDFs de estudo etc.
+- Material compartilhado entre disciplinas (ex: Guia de
+  Sobrevivencia, cronograma geral) pode ficar diretamente
+  na pasta do periodo, sem subpasta de disciplina.
+
+----------------------------------------------------------------
+3. NOMENCLATURA DE ARQUIVOS
+----------------------------------------------------------------
+- Manter o prefixo oficial "[UFMS Digital]" nos arquivos
+  baixados do AVA (identifica a origem e facilita busca).
+- Nao renomear arquivos de videoaula vindos do AVA,
+  a menos que o nome esteja claramente errado.
+- Evitar espacos desnecessarios em nomes de arquivos novos;
+  preferir underline "_" quando precisar separar palavras.
+- Exemplos validos:
+    [UFMS Digital] Algoritmos e Programacao I - Videoaula do
+        Modulo 3 - Unidade 1.pdf
+    resumo_modulo3_etica_ia_governanca.txt
+
+----------------------------------------------------------------
+4. REGRAS DE CONTEUDO
+----------------------------------------------------------------
+- Nao misturar materias de periodos diferentes.
+- Nao misturar materiais de fora do curso (ex: projetos
+  pessoais, outros cursos) dentro desta arvore.
+
+----------------------------------------------------------------
+5. CHECKLIST ANTES DE SALVAR UM ARQUIVO NOVO
+----------------------------------------------------------------
+- Ja existe pasta para o periodo correto?        ( ) sim
+- Ja existe pasta para a disciplina correta?      ( ) sim
+- O nome do arquivo segue o padrao da secao 3?   ( ) sim
+- O arquivo nao duplica algo que ja existe?       ( ) sim
+
+================================================================
+FIM DAS REGRAS - UFMS Digital
+================================================================

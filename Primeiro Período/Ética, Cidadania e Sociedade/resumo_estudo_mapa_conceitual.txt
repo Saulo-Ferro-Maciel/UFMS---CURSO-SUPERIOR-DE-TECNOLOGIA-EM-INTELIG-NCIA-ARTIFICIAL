@@ -1,0 +1,271 @@
+=====================================================================
+RESUMO DE ESTUDO — MARCOS REGULATÓRIOS E GESTÃO DE RISCOS DA IA
+Baseado no mapa conceitual (versão revisada)
+=====================================================================
+
+Como usar: cada bloco = um nó do mapa. Leia a definição, decore a
+"relação-chave" (ela é a seta do mapa) e use as perguntas de revisão
+para se testar sem olhar o texto.
+
+
+---------------------------------------------------------------------
+1. AI ACT (UE) — Regulation (EU) 2024/1689
+---------------------------------------------------------------------
+O QUE É: primeiro marco regulatório abrangente do mundo sobre
+Inteligência Artificial. Publicado no Jornal Oficial da UE em
+12/07/2024, entrou em vigor em 01/08/2024.
+
+PONTOS-CHAVE:
+- Abordagem baseada em risco: classifica sistemas de IA em 4 níveis —
+  risco inaceitável (proibido), alto risco, risco limitado e
+  risco mínimo/nulo.
+- Cronograma escalonado: proibições e obrigações de "alfabetização em
+  IA" desde 02/02/2025; transparência para modelos de propósito geral
+  desde 02/08/2025; aplicação plena para sistemas de alto risco a
+  partir de 02/08/2026.
+- Sanções: até 35 milhões de euros ou 7% do faturamento global anual.
+- Objetivo declarado: promover IA confiável e centrada no ser humano,
+  protegendo direitos fundamentais SEM travar a inovação.
+
+RELAÇÃO-CHAVE NO MAPA: "inspira e serve de referência para" o PL
+2338/2023 → e "orienta inovação responsável" (equilíbrio entre
+avanço tecnológico, segurança e direitos).
+
+PERGUNTA DE REVISÃO: Quais são os 4 níveis de risco do AI Act e o
+que diferencia "alto risco" de "risco limitado"?
+
+
+---------------------------------------------------------------------
+2. PL 2338/2023 (BRASIL) — Marco Legal da Inteligência Artificial
+---------------------------------------------------------------------
+O QUE É: projeto de lei brasileiro, de autoria do então presidente do
+Senado, Rodrigo Pacheco, que estabelece princípios, direitos, deveres
+e responsabilidades para o desenvolvimento e uso de IA no Brasil.
+
+PONTOS-CHAVE:
+- Aprovado por unanimidade no Senado Federal em 10/12/2024.
+- Remetido à Câmara dos Deputados em março/2025; em 2026 segue em
+  tramitação (Comissão Especial), aguardando votação final.
+- Adota abordagem semelhante à do AI Act (risk-based approach), mas
+  com nuances brasileiras: lista de direitos do usuário, governança
+  proporcional ao risco, e criação do Sistema Nacional de Regulação e
+  Governança de IA (SIA), com participação da ANPD.
+- Há um entrave constitucional: o Executivo apontou "vício de
+  iniciativa" por atribuir competências normativas à ANPD (matéria
+  que seria de iniciativa privativa do Executivo) — por isso enviou,
+  em dez/2025, PL complementar para formalizar o SIA.
+
+RELAÇÃO-CHAVE NO MAPA: "propõe regulação no cenário brasileiro" →
+Governança Ética da IA.
+
+PERGUNTA DE REVISÃO: Por que o PL 2338/2023 enfrentou um entrave de
+constitucionalidade, e qual órgão está no centro dessa discussão?
+
+
+---------------------------------------------------------------------
+3. GOVERNANÇA ÉTICA DA INTELIGÊNCIA ARTIFICIAL
+---------------------------------------------------------------------
+O QUE É: conjunto de estruturas, papéis e processos que orientam o
+desenvolvimento e uso responsável da IA dentro de uma organização ou
+de um Estado.
+
+CADEIA DE DESDOBRAMENTO (como a governança se torna prática):
+  Governança Ética
+     → DEFINE RESPONSABILIDADES (atribui papéis e deveres)
+     → ESTABELECE POLÍTICAS E CONTROLES (regras internas de uso de IA)
+     → GARANTE SUPERVISÃO HUMANA (human oversight)
+     → MONITORA RISCOS (de forma contínua, retroalimentando a
+       Gestão de Riscos)
+
+RELAÇÃO-CHAVE NO MAPA: "fundamenta" a Gestão de Riscos; o ciclo de
+monitoramento "retroalimenta" a própria Gestão de Riscos (loop).
+
+PERGUNTA DE REVISÃO: Explique a cadeia governança → responsabilidade
+→ políticas → supervisão → monitoramento, com suas próprias palavras.
+
+
+---------------------------------------------------------------------
+4. GESTÃO DE RISCOS (Classificação de riscos)
+---------------------------------------------------------------------
+O QUE É: processo de identificar, classificar e priorizar riscos de
+sistemas de IA — é o núcleo do modelo "risk-based" tanto do AI Act
+quanto do PL 2338/2023.
+
+RELAÇÃO-CHAVE NO MAPA: "associada a" Segurança Técnica; "exige"
+Responsabilidade ao longo do ciclo de vida do sistema.
+
+PERGUNTA DE REVISÃO: Por que a classificação de risco é o ponto de
+partida de quase todo o resto do mapa?
+
+
+---------------------------------------------------------------------
+5. SEGURANÇA TÉCNICA
+---------------------------------------------------------------------
+O QUE É: conjunto de medidas técnicas (robustez, cibersegurança,
+testes) que mitigam os riscos já classificados.
+
+RELAÇÃO-CHAVE NO MAPA: mitiga riscos classificados; "reduz impactos
+negativos" sobre a Proteção de Direitos Fundamentais (feedback).
+
+PERGUNTA DE REVISÃO: De que forma a segurança técnica protege
+indiretamente direitos fundamentais, e não só o sistema em si?
+
+
+---------------------------------------------------------------------
+6. RESPONSABILIDADE (ao longo do ciclo de vida do sistema)
+---------------------------------------------------------------------
+O QUE É: princípio de que a responsabilidade por um sistema de IA não
+se esgota na fase de criação — abrange design, treinamento,
+implantação, uso e descomissionamento (accountability).
+
+RELAÇÃO-CHAVE NO MAPA: "se efetiva por meio de" Compliance.
+
+PERGUNTA DE REVISÃO: Cite as fases do ciclo de vida de um sistema de
+IA em que a responsabilidade se aplica.
+
+
+---------------------------------------------------------------------
+7. COMPLIANCE (Verificação de conformidade)
+---------------------------------------------------------------------
+O QUE É: processo formal de checar se o sistema de IA está de acordo
+com normas legais, éticas e internas.
+
+RELAÇÃO-CHAVE NO MAPA: "valida sistemas" (Validação de Sistemas) e
+"apoia e valida" a Implementação Organizacional; recebe "retorno" da
+Validação quando há não conformidade (loop).
+
+PERGUNTA DE REVISÃO: Qual a diferença entre Compliance e Validação de
+Sistemas no mapa?
+
+
+---------------------------------------------------------------------
+8. VALIDAÇÃO DE SISTEMAS
+---------------------------------------------------------------------
+O QUE É: testes e auditoria técnica que comprovam, na prática, que o
+sistema atende aos requisitos de compliance.
+
+RELAÇÃO-CHAVE NO MAPA: alimentada pelo Compliance ("valida sistemas")
+e devolve retorno ao Compliance "se há não conformidade" (loop de
+correção).
+
+PERGUNTA DE REVISÃO: Por que esse loop de retorno é importante para a
+melhoria contínua do sistema?
+
+
+---------------------------------------------------------------------
+9. IMPLEMENTAÇÃO ORGANIZACIONAL (Adoção prática nas organizações)
+---------------------------------------------------------------------
+O QUE É: etapa em que compliance e governança saem do papel e passam
+a fazer parte da rotina da empresa/instituição.
+
+RELAÇÃO-CHAVE NO MAPA: "fortalece" a Proteção de Direitos
+Fundamentais.
+
+PERGUNTA DE REVISÃO: Dê um exemplo prático de "implementação
+organizacional" de governança de IA (ex.: comitê de ética, canal de
+denúncias, treinamento de equipes).
+
+
+---------------------------------------------------------------------
+10. PROTEÇÃO DE DIREITOS FUNDAMENTAIS — as 5 dimensões
+---------------------------------------------------------------------
+O QUE É: o objetivo final da regulação (tanto AI Act quanto PL
+2338/2023 citam expressamente a proteção de direitos fundamentais).
+No mapa, esse conceito se desdobra em 5 dimensões:
+
+  a) PRIVACIDADE E PROTEÇÃO DE DADOS
+     - Relaciona-se diretamente com a LGPD (Lei 13.709/2018) no
+       Brasil e o GDPR na UE.
+  b) NÃO DISCRIMINAÇÃO (equidade algorítmica)
+     - Evitar que sistemas de IA reproduzam vieses discriminatórios
+       (gênero, raça, idade etc.).
+  c) DIGNIDADE E AUTONOMIA
+     - Garantir que a pessoa não seja reduzida a um mero dado
+       processado; preservar a capacidade de decisão humana.
+  d) TRANSPARÊNCIA E EXPLICABILIDADE
+     - Direito de entender como e por que uma decisão automatizada
+       foi tomada (explainability / direito à explicação).
+  e) REVISÃO HUMANA (human in the loop)
+     - Direito de contestar decisões automatizadas e exigir revisão
+       por um humano.
+
+RELAÇÃO-CHAVE NO MAPA: "desdobra-se em" (as 5 dimensões); mantém
+"equilíbrio com" a Inovação Tecnológica.
+
+PERGUNTA DE REVISÃO: Associe cada uma das 5 dimensões a um exemplo
+real de violação (ex.: viés em recrutamento por IA = não
+discriminação).
+
+
+---------------------------------------------------------------------
+11. INOVAÇÃO TECNOLÓGICA (Desenvolvimento de sistemas inteligentes)
+---------------------------------------------------------------------
+O QUE É: o polo "oposto" (mas complementar) à proteção de direitos —
+representa o avanço tecnológico que a regulação busca não travar.
+
+RELAÇÃO-CHAVE NO MAPA: "equilíbrio com" Proteção de Direitos
+Fundamentais; é "orientada" pela regulação (AI Act / PL 2338) rumo a
+uma inovação responsável.
+
+PERGUNTA DE REVISÃO: Por que tanto o AI Act quanto o PL 2338/2023
+insistem que regulação não é sinônimo de barreira à inovação?
+
+
+---------------------------------------------------------------------
+12. RELAÇÕES DE RETROALIMENTAÇÃO (loops do mapa)
+---------------------------------------------------------------------
+Essas são as "linhas tracejadas" — mostram que o mapa não é só uma
+via de mão única, mas um sistema com ajustes contínuos:
+
+  - Monitora Riscos → retroalimenta → Gestão de Riscos
+  - Segurança Técnica → reduz impactos negativos → Proteção de
+    Direitos Fundamentais
+  - Validação de Sistemas → retorno se há não conformidade →
+    Compliance
+
+PERGUNTA DE REVISÃO: Por que um mapa conceitual sobre governança de
+IA precisa de loops de retroalimentação, e não só setas lineares?
+
+
+=====================================================================
+FONTES CONSULTADAS (para aprofundamento e verificação)
+=====================================================================
+
+AI ACT (UE):
+- Texto oficial (EUR-Lex): Regulation (EU) 2024/1689
+  https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng
+- Comissão Europeia — página oficial do AI Act:
+  https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai
+- Explicador de artigos e checklist de compliance:
+  https://artificialintelligenceact.eu/
+
+PL 2338/2023 (BRASIL):
+- Tramitação oficial — Senado Federal:
+  https://www25.senado.leg.br/web/atividade/materias/-/materia/157233
+- Análise jurídica sobre o status em 2026 (vício de iniciativa, SIA,
+  ANPD): Barbieri Advogados —
+  https://www.barbieriadvogados.com/regulamentacao-inteligencia-artificial-brasil/
+- Resumo prático (classificação de risco, multas, SIA): Locus.IA —
+  https://ialocus.com.br/blog/post-pl-2338-marco-legal-ia-brasil-2026.html
+- Cobertura da tramitação na Câmara: Exame —
+  https://exame.com/inteligencia-artificial/marco-legal-da-inteligencia-artificial-pl-2338-o-que-muda-para-empresas-com-a-nova-lei/
+- Comparativo AI Act x PL 2338: Mind Group —
+  https://mindconsulting.com.br/2026/04/eu-ai-act-pl-2338-regulacao-ia-empresas-brasileiras-2026/
+
+LEGISLAÇÃO BRASILEIRA CORRELATA (citada como pano de fundo, inclusive
+no depoimento do professor sobre TSE/TRE e LGPD):
+- Lei Geral de Proteção de Dados (LGPD) — Lei nº 13.709/2018:
+  https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm
+- Autoridade Nacional de Proteção de Dados (ANPD):
+  https://www.gov.br/anpd/pt-br
+
+OBSERVAÇÃO IMPORTANTE:
+O PL 2338/2023 ainda está em tramitação (não é lei em vigor até a
+data deste resumo). Antes de citar como "aprovado"/"em vigor" em uma
+prova, confira a tramitação atualizada no site do Senado/Câmara, pois
+o cronograma legislativo pode mudar.
+
+=====================================================================
+Documento gerado como material de apoio a partir do mapa conceitual
+"Marcos Regulatórios e Gestão de Riscos da IA — versão revisada".
+=====================================================================

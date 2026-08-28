@@ -1,0 +1,164 @@
+Atividade – Caráter Reflexivo da Ética
+Questão 1: Qual é o nome do seu curso de graduação?
+
+Resposta:
+Meu curso de graduação é o Curso Superior de Tecnologia em Inteligência Artificial, da UFMS.
+
+O curso pertence à AGEAD – Agência de Educação Digital e a Distância da UFMS. 
+
+Fonte de pesquisa:
+UFMS – Tecnologia em Inteligência Artificial:
+https://agead.ufms.br/carrossel/ead-ufms-digital/tecnologia-em-inteligencia-artificial/
+
+UFMS – Dados oficiais do curso:
+https://graduacao.ufms.br/cursos/3208
+
+Questão 2: Meu curso possui um Conselho de Classe definido em Lei Federal?
+
+Resposta: Não.
+
+Atualmente, o Curso Superior de Tecnologia em Inteligência Artificial não possui um Conselho de Classe profissional específico definido em Lei Federal.
+
+A área de IA é abrangida na Computação e à Tecnologia da Informação, mas não existe atualmente um conselho profissional específico para tal, como ocorre, por exemplo, com a Engenharia, que possui o Sistema CONFEA/CREA regulamentado por lei.
+
+Um exemplo que demonstra essa diferença é a existência de projetos de lei que ainda propõem a criação de Conselhos Federal e Regionais de Informática.
+
+Em 2026, por exemplo, foi apresentado o Projeto de Lei nº 2.928/2026, que propõe justamente a regulamentação de profissões da área de informática e a criação desses conselhos. Por se tratar de projeto de lei, isso demonstra que a criação de tal conselho ainda não corresponde a uma regulamentação profissional vigente.
+
+Fonte de pesquisa – Câmara dos Deputados:
+https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=1738563
+
+Fonte de pesquisa – proposta de 2026 sobre Conselhos de Informática:
+https://www.ctb.org.br/2026/06/25/ctb-participa-da-construcao-de-projeto-de-lei-que-regulamenta-profissoes-da-area-de-informatica/
+
+Para comparação – Lei Federal que regulamenta Engenharia e cria o sistema de Conselhos:
+Lei nº 5.194/1966 – Planalto:
+https://www.planalto.gov.br/ccivil_03/leis/l5194.htm
+
+Questão 3: Existe um código de conduta/ética para os futuros profissionais do meu curso, elaborado pelo meu Conselho de Classe?
+
+Resposta: Não.
+
+Como não existe atualmente um Conselho de Classe específico para os profissionais formados em Tecnologia em Inteligência Artificial, também não existe um Código de Ética Profissional específico elaborado por esse Conselho.
+
+Entretanto, existem referências éticas importantes para os profissionais da área de Computação.
+
+A Sociedade Brasileira de Computação (SBC) possui um Código de Ética e Conduta Profissional, aprovado pela Resolução nº 02, de 21 de março de 2024. Esse documento apresenta princípios que podem ser utilizados como referência para profissionais de Computação e, consequentemente, para profissionais que trabalham com Inteligência Artificial.
+
+Além disso, a própria UFMS demonstra a importância da ética na formação do tecnólogo em Inteligência Artificial. A matriz curricular do curso possui as disciplinas:
+
+Ética, Cidadania e Sociedade;
+
+Ética e Governança em Inteligência Artificial.
+
+Fonte de pesquisa – UFMS, estrutura curricular oficial:
+https://graduacao.ufms.br/cursos/3208/estrutura
+
+Fonte de pesquisa – Código de Ética e Conduta Profissional da Sociedade Brasileira de Computação:
+https://www.sbc.org.br/wp-content/uploads/2024/07/C-digo-de-tica-e-Conduta-Profissional_Resolucao_002-2024-1.pdf
+
+Portanto:
+
+Código de ética elaborado por um Conselho de Classe específico de IA: NÃO.
+
+Existem referências e códigos de ética aplicáveis à área de Computação: SIM.
+
+Questão 4: Se não existe, proponha um código de conduta/ética para sua futura profissão.
+
+Como atualmente não existe um Conselho de Classe específico para o profissional de Inteligência Artificial, proponho o seguinte Código de Conduta e Ética do Profissional de Inteligência Artificial, tomando como referência o Código de Ética e Conduta Profissional da Sociedade Brasileira de Computação e os princípios de ética e governança presentes na formação do curso da UFMS.
+
+Código de Conduta e Ética do Profissional de Inteligência Artificial
+Art. 1º – Responsabilidade profissional
+
+O profissional de Inteligência Artificial deve utilizar seus conhecimentos técnicos de maneira responsável, buscando desenvolver soluções que beneficiem a sociedade e evitando causar danos desnecessários às pessoas.
+
+Art. 2º – Respeito à dignidade humana
+
+O desenvolvimento e a utilização de sistemas de Inteligência Artificial devem respeitar a dignidade humana, os direitos fundamentais, a liberdade, a privacidade e a autonomia das pessoas.
+
+Art. 3º – Transparência
+
+O profissional deve informar, sempre que apropriado, quando uma decisão, recomendação ou conteúdo tiver sido produzido ou influenciado por um sistema de Inteligência Artificial.
+
+Art. 4º – Proteção de dados
+
+O profissional deve proteger os dados utilizados nos sistemas de Inteligência Artificial, evitando coleta, armazenamento, processamento ou divulgação indevida de informações pessoais.
+
+Art. 5º – Não discriminação
+
+O profissional deve buscar identificar e reduzir preconceitos e vieses existentes nos dados e modelos utilizados, evitando que sistemas de Inteligência Artificial produzam discriminação injustificada.
+
+Art. 6º – Segurança
+
+Os sistemas de Inteligência Artificial devem ser desenvolvidos considerando riscos de falhas, ataques, utilização indevida e consequências não previstas.
+
+Art. 7º – Responsabilidade humana
+
+O profissional não deve utilizar a Inteligência Artificial como justificativa para eliminar a responsabilidade humana. Em situações de maior impacto, deve existir supervisão humana adequada.
+
+Art. 8º – Honestidade profissional
+
+O profissional deve apresentar de maneira verdadeira as capacidades, limitações, resultados e riscos dos sistemas que desenvolve ou utiliza.
+
+Art. 9º – Uso responsável da tecnologia
+
+O profissional deve evitar desenvolver ou utilizar sistemas de Inteligência Artificial com a finalidade de causar danos injustificados a pessoas, organizações ou à sociedade.
+
+Art. 10º – Atualização profissional
+
+O profissional deve manter seus conhecimentos técnicos e éticos atualizados, considerando a rápida evolução da Inteligência Artificial.
+
+Art. 11º – Impacto social e ambiental
+
+O profissional deve considerar, sempre que possível, os impactos sociais, econômicos e ambientais relacionados ao desenvolvimento e à utilização de sistemas de Inteligência Artificial.
+
+Art. 12º – Interesse público
+
+Quando houver conflito entre interesses comerciais e riscos significativos à sociedade, o profissional deve considerar a segurança, os direitos fundamentais e o interesse público.
+
+Justificativa
+
+Considero importante a existência de código de ética específico para profissionais de Inteligência Artificial porque essa tecnologia pode interferir diretamente na vida das pessoas.
+
+Um sistema de IA pode ser utilizado para analisar informações, recomendar decisões, produzir conteúdos, automatizar atividades e auxiliar processos que possuem consequências reais para indivíduos e organizações.
+
+Por isso, o profissional não deve considerar apenas se uma tecnologia funciona tecnicamente. Também deve analisar seus possíveis impactos, riscos, limitações e consequências para a sociedade.
+
+A própria UFMS demonstra essa preocupação ao incluir na matriz curricular do curso as disciplinas Ética, Cidadania e Sociedade e Ética e Governança em Inteligência Artificial.
+
+Fontes de pesquisa utilizadas para elaborar a proposta:
+
+UFMS – Estrutura curricular do Curso Superior de Tecnologia em Inteligência Artificial:
+https://graduacao.ufms.br/cursos/3208/estrutura
+
+Sociedade Brasileira de Computação – Código de Ética e Conduta Profissional:
+https://www.sbc.org.br/wp-content/uploads/2024/07/C-digo-de-tica-e-Conduta-Profissional_Resolucao_002-2024-1.pdf
+
+Questão 5: Você está ciente do código de conduta/ética da UFMS?
+
+Resposta: Sim.
+
+Estou ciente das normas de conduta e ética da Universidade Federal de Mato Grosso do Sul.
+
+A UFMS possui atualmente um Regulamento de Conduta Estudantil, aprovado pela Resolução nº 497-COUN/UFMS, de 1º de abril de 2026.
+
+O regulamento estabelece normas de conduta que devem ser observadas pelos estudantes da Universidade, buscando assegurar a organização, a harmonia e o respeito no ambiente universitário.
+
+Como estudante da UFMS, considero importante conhecer e respeitar essas normas durante minha formação acadêmica.
+
+Fonte oficial – Boletim Oficial da UFMS:
+https://boletimoficial.ufms.br/publicacao?id=593988
+
+A resolução também informa que o Regulamento de Conduta Estudantil substituiu normas anteriores e entrou em vigor na data de sua publicação.
+
+Conclusão
+
+A pesquisa demonstra que o Curso Superior de Tecnologia em Inteligência Artificial da UFMS está inserido em uma área tecnológica recente e em constante evolução.
+
+Atualmente, não existe um Conselho de Classe específico para os profissionais de Inteligência Artificial regulamentado por Lei Federal. Logo, também não existe um Código de Ética Profissional específico elaborado por esse Conselho.
+
+Contudo, existem referências éticas na área de Computação, como o Código de Ética e Conduta Profissional da Sociedade Brasileira de Computação, além das próprias normas e disciplinas oferecidas pela UFMS.
+
+Considero que a ética é especialmente importante na Inteligência Artificial porque as decisões tomadas durante o desenvolvimento e utilização de sistemas podem produzir consequências significativas para toda a sociedade.
+
+Desta forma, o futuro profissional da IA deve buscar não apenas competência técnica, mas responsabilidade, transparência, segurança, respeito à privacidade, não discriminação e compromisso com o interesse público.

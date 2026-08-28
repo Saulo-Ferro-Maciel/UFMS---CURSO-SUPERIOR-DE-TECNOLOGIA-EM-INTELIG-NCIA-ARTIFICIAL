@@ -1,0 +1,105 @@
+================================================================
+REGRAS DE ORGANIZACAO - Pasta PROVAS (Primeiro Periodo)
+Local: /home/saulo/Documentos/UFMS Digital/Primeiro Periodo/
+       PROVAS/
+================================================================
+
+Esta pasta eh exclusiva para PROVAS, QUIZZES, ATIVIDADES
+AVALIATIVAS e materiais entregues para avaliacao no AVA.
+
+----------------------------------------------------------------
+1. CONTEUDO PERMITIDO
+----------------------------------------------------------------
+- Provas objetivas ou dissertativas (PDF)
+- Quizzes e checklists de avaliacao
+- Mapas conceituais, flashcards e propostas entregues
+- Codigos-fontes entregues em avaliacao (.py, .c, .cpp etc.)
+- Avisos e comunicados oficiais sobre provas (PDF)
+- Resumos feitos PARA serem entregues como avaliacao
+- Nenhum material que NAO tenha sido (ou sera) avaliado.
+
+----------------------------------------------------------------
+2. NOMENCLATURA PADRAO
+----------------------------------------------------------------
+Todos os arquivos comecam com o prefixo "AVALIACAO_".
+Apos o prefixo, usar CAIXA ALTA, separando palavras com
+underline "_".
+
+Formatos recomendados:
+
+    AVALIACAO_<tipo>_<disciplina ou tema>.pdf
+    AVALIACAO_<tipo>_<modulo>_<tema>.pdf
+
+Exemplos validos:
+    AVALIACAO_Modulo_1_Introducao_a_Computacao.pdf
+    AVALIACAO_Atividade_Pensamento_Computacional.pdf
+    AVALIACAO_Proposta_Flashcard_Quiz_Pensamento_Computacional.pdf
+    AVALIACAO_prova_etica_cidadania_sociedade.txt
+    AVALIACAO_resumo_etica_ia_governanca.pdf
+    AVALIACAO_modulo5.py
+    AVALIACAO_prova3.py
+
+Tipos comuns: Atividade, Prova, Quiz, Mapa, Resumo, Aviso,
+Modulo.
+
+----------------------------------------------------------------
+3. IDENTIFICACA POR DISCIPLINA
+----------------------------------------------------------------
+Nao criar subpastas por disciplina dentro de PROVAS/ -
+manter tudo junto. A disciplina deve ser identificada no
+NOME do arquivo (ultima parte antes da extensao), ex:
+
+    AVALIACAO_Atividade_Pensamento_Computacional.pdf
+    AVALIACAO_Atividade_Saulo_Ferro_Maciel.pdf   <- nome pessoal
+    AVALIACAO_Avaliacao_Funcoes_Modularizacao.pdf
+    AVALIACAO_Avaliacao_do_Modulo_3.pdf
+    AVALIACAO_prova_etica_cidadania_sociedade.txt
+
+Isso permite localizar rapidamente por disciplina usando
+busca por texto (ex: procurar "_etica_" ou "_pensamento_").
+
+----------------------------------------------------------------
+4. VERSIONAMENTO
+----------------------------------------------------------------
+- Se uma mesma prova for refeita/reescrita, manter o original
+  e usar sufixo de versao:
+    AVALIACAO_Atividade_X.pdf           (versao original)
+    AVALIACAO_Atividade_X_v2.pdf        (segunda versao)
+    AVALIACAO_Atividade_X_revisado.pdf  (revisao final)
+- A "Melhor Versao" / "Revisado" eh a que vale como entrega
+  final; manter as demais como historico.
+
+----------------------------------------------------------------
+5. CODIGOS DE PROVA (.py, .c, ...)
+----------------------------------------------------------------
+- Manter extensao original do arquivo (.py, .c, .cpp etc.).
+- Nome do arquivo segue a mesma regra: prefixo "AVALIACAO_".
+- Se houver varios arquivos de uma mesma prova, usar
+  sufixos descritivos:
+    AVALIACAO_prova3_parte1.py
+    AVALIACAO_prova3_parte2.py
+
+----------------------------------------------------------------
+6. REGRAS DE CONTEUDO
+----------------------------------------------------------------
+- Nada de rascunho solto, nada de material pessoal nao
+  avaliado. Rascunhos vao em "_rascunho/" (criar essa
+  pasta dentro de PROVAS/ se necessario).
+- Nada de videoaulas, apostilas ou materiais de estudo -
+  esses vao na pasta da disciplina correspondente, NAO
+  aqui.
+- Avisos do AVA sobre provas (ex: prazos) podem ficar aqui
+  com prefixo "AVALIACAO_aviso_".
+
+----------------------------------------------------------------
+7. CHECKLIST ANTES DE SALVAR UMA PROVA
+----------------------------------------------------------------
+- Comeca com "AVALIACAO_"?                          ( ) sim
+- Esta em CAIXA ALTA com underline?                 ( ) sim
+- Identifica a disciplina ou tema no nome?          ( ) sim
+- Se for versao revisada, original esta preservado?  ( ) sim
+- Nao eh material de estudo (isso vai na disciplina) ( ) sim
+
+================================================================
+FIM DAS REGRAS - Pasta PROVAS
+================================================================
