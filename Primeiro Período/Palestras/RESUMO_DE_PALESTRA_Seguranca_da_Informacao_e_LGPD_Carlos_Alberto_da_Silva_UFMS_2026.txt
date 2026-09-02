@@ -1,0 +1,59 @@
+RESUMO TÉCNICO: SEGURANÇA DA INFORMAÇÃO E LGPD
+Palestrante: Prof. Dr. Carlos Alberto da Silva (FACOM - UFMS)
+Data: 29 de agosto de 2026
+
+1. FUNDAMENTOS DE SEGURANÇA DA INFORMAÇÃO
+A Segurança da Informação (SI) é definida como a prática de proteção de dados contra acesso, uso, divulgação, alteração ou destruição não autorizados. A SI não se limita a software, mas abrange um ecossistema composto por hardware, software e peopleware.
+
+1.1 Tríade CID (Pilares Fundamentais)
+- Confidencialidade: Garante que a informação seja acessível apenas por entidades autorizadas. Implementada tecnicamente via criptografia.
+- Integridade: Assegura que a informação não foi alterada ou corrompida. Implementada via funções de hashing.
+- Disponibilidade: Garante que sistemas e dados estejam acessíveis quando necessários. Implementada via redundância e alta disponibilidade.
+
+1.2 Conceitos Complementares
+- Autenticidade e Identidade: Garantia de que a fonte da informação é legítima. Validada por fatores de conhecimento (senhas), posse (tokens) ou inerência (biometria).
+- Defesa em Profundidade: Estratégia de segurança em camadas, onde múltiplas barreiras são aplicadas para mitigar riscos (ex: Criptografia -> Hashing -> Redundância -> Assinatura Digital).
+- Políticas de Segurança: Documentos formais que regem as diretrizes de proteção de dados e conformidade (ex: ISO/IEC 27001).
+
+2. LEI GERAL DE PROTEÇÃO DE DADOS (LGPD - Lei 13.709/2018)
+A LGPD regula o tratamento de dados pessoais no Brasil, visando proteger a privacidade e a liberdade dos cidadãos, devolvendo a eles o controle sobre suas informações.
+
+2.1 Classificação de Dados
+- Dados Pessoais: Qualquer informação relacionada a pessoa natural identificada ou identificável (Nome, CPF, IP, Geolocalização).
+- Dados Pessoais Sensíveis: Dados que podem gerar discriminação, exigindo maior proteção (Origem racial, convicção religiosa, dados de saúde, biometria).
+
+2.2 Princípios do Tratamento de Dados
+- Finalidade: Coleta para propósitos legítimos e específicos.
+- Necessidade (Minimização): Coleta do mínimo necessário para a execução do serviço.
+- Transparência: Informações claras e acessíveis ao titular.
+
+2.3 Bases Legais para Coleta
+O tratamento de dados só é legal se houver uma base jurídica, como:
+- Consentimento do titular.
+- Execução de contrato.
+- Cumprimento de obrigação legal (ex: Marco Civil da Internet).
+
+2.4 Atores do Tratamento
+- Titular: A pessoa física dona dos dados.
+- Controlador: Quem toma as decisões sobre o tratamento.
+- Operador: Quem executa o tratamento (ex: provedor de nuvem).
+- Encarregado (DPO): Canal de comunicação entre controlador, titular e ANPD.
+
+3. GOVERNANÇA E FISCALIZAÇÃO (ANPD)
+A Autoridade Nacional de Proteção de Dados (ANPD) é a autarquia responsável por zelar pela LGPD, atuando na regulamentação, fiscalização e aplicação de sanções.
+
+3.1 Sanções Administrativas
+As penalidades variam de advertências a multas simples (até 2% do faturamento, limitada a R$ 50 milhões por infração) e o bloqueio ou eliminação dos dados.
+
+4. IMPACTO NO DESENVOLVIMENTO DE SOFTWARE
+A palestra enfatiza a transição para a mentalidade de "Privacy by Design", onde a privacidade é integrada à arquitetura do sistema desde a concepção.
+- Implementação Real de Exclusão: O "excluir conta" deve disparar deleções ou anonimizações reais no banco de dados, respeitando exceções legais (como logs de acesso).
+- Minimização de Dados: Abandonar a coleta indiscriminada de dados.
+
+5. ESTATUTOS COMPLEMENTARES NO BRASIL
+A proteção de dados deve ser analisada em conjunto com outros marcos legais:
+- ECA (Estatuto da Criança e do Adolescente): Proteção integral de menores, com foco recente no "ECA Digital" para redes sociais e jogos.
+- Estatuto da Pessoa Idosa: Garantia de direitos e dignidade para pessoas com 60 anos ou mais.
+
+6. CONCLUSÕES E CASOS PRÁTICOS
+A aplicação de conceitos de anonimização (citada em exemplos como PIX e SERPRO) é fundamental para conciliar a utilidade dos dados com a conformidade legal e a segurança da informação.

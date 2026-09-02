@@ -26,9 +26,8 @@ aqui, organizado por PERIODO letivo.
   propria subpasta.
 - Nome da pasta da disciplina deve ser identico (ou muito
   proximo) ao nome oficial da disciplina no AVA UFMS.
-- Dentro de cada pasta de disciplina, em geral ficam:
-    * subpasta "PROVAS/"   - avaliacoes e arquivos de prova
-    * arquivos soltos      - videoaulas, PDFs de estudo etc.
+- Dentro de cada pasta de disciplina, ficam apenas arquivos de estudo (videoaulas, PDFs, etc).
+- As avaliações e arquivos de prova de TODAS as disciplinas do período ficam centralizados em uma única subpasta "PROVAS/" localizada diretamente na raiz da pasta do período.
 - Material compartilhado entre disciplinas (ex: Guia de
   Sobrevivencia, cronograma geral) pode ficar diretamente
   na pasta do periodo, sem subpasta de disciplina.
